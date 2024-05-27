@@ -1,0 +1,1 @@
+web: bundle exec rails server brave -p \$PORT -e \$RACK_ENV"
