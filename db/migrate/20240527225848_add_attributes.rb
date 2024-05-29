@@ -1,5 +1,5 @@
-class AddAttributes < ActiveRecord::Migration[7.1]
-  def change
-    add_column :articles, :description, :text
-  end
-end
+#class AddAttributes < ActiveRecord::Migration[7.1]
+#  def change
+#    add_column :articles, :description, :text
+#  end
+#end
